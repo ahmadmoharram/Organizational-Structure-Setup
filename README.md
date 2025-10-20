@@ -11,7 +11,8 @@ Build the full HR foundation for a fictional company using Microsoft Dynamics 36
 
 ## ⚙️ Tools & Platform  
 - Microsoft Dynamics 365 Human Resources  
-- 
+- Google Slides
+- GitHub platform
 
 ## 👥 Team Members  
 - Ahmed Moharram Tawfik 
