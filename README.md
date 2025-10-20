@@ -14,12 +14,12 @@ Build the full HR foundation for a fictional company using Microsoft Dynamics 36
 - 
 
 ## 👥 Team Members  
-- Ahmed Muharram
+- Ahmed Moharram Tawfik 
 - Eman Magdy Maarouf
-- Antony Samir 
-- Marian Ashraf Mounir Morcos
-- Basma 
-- Marian Elia Haroun
+- Antonios Samir Nazar
+- Marian Ashraf Mounir 
+- Passant Walid Mostafa 
+- Marian Elia Haroon
 
 ## 📎 Deliverables  
 - **Documentation** → detailed setup steps and final project report.  
