@@ -1,4 +1,4 @@
-# Dynamics 365 HR – Organizational Structure Setup  
+# Organizational Structure Setup  
 
 ## 🎯 Objective  
 Build the full HR foundation for a fictional company using Microsoft Dynamics 365.  
