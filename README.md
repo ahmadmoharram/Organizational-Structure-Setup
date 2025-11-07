@@ -27,4 +27,4 @@ Build the full HR foundation for a fictional company using Microsoft Dynamics 36
 - **Presentation** → final project presentation.  
 
 ## 🗂 Repository Structure  
-**Organizational_Structure_Setup.pdf** → Detailed documentation with screenshots and explanation of the organizational chart setup on Dynamics 365 HR.
+**Organizational_Structure_Setup.pdf** → Detailed documentation with screenshots and explanation of the organizational chart setup on Microsoft Dynamics 365.
