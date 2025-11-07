@@ -10,7 +10,7 @@ Build the full HR foundation for a fictional company using Microsoft Dynamics 36
 - Produce an organizational chart.  
 
 ## ⚙️ Tools & Platform  
-- **Dynamics 365 HR** – Used to create and configure the organizational structure and organizational chart.
+- **Microsoft Dynamics 365** – Used to create and configure the organizational structure and organizational chart.
 - **Microsoft PowerPoint, docs., PDF** – Used for documentation and presentation of the final setup with screenshots and explanations.
 
 ## 👥 Team Members  
