@@ -23,10 +23,10 @@ Detailed screenshots of the implementation are included in PDF files inside the 
 
 ## ☑️ Credits
 - Project developed by:
-- *Ahmed Moharram Tawfik, Eman Magdy Maarouf, Antonios Samir Nazar, Marian Ashraf Mounir, Passant Walid Mostafa, Marian Elia Haroon.*
+  *Ahmed Moharram Tawfik, Eman Magdy Maarouf, Antonios Samir Nazar, Marian Ashraf Mounir, Passant Walid Mostafa, Marian Elia Haroon.*
 
 - Initiative:
-- *Digital Egypt Pioneers Initiative (DEPI)*
+  *Digital Egypt Pioneers Initiative (DEPI)*
 
 - Date started: October 2025 | Last updated: November 2025.
 
