@@ -1,4 +1,4 @@
-## Organizational Structure Setup
+# Organizational Structure Setup
 
 ## 🎯 Objective
 Build the full HR foundation for a fictional company **"NOVEXA Technologies"** using Microsoft Dynamics 365.  
@@ -35,4 +35,4 @@ Digital Egypt Pioneers Initiative (DEPI)
 
 ## 🗂 Repository Structure
 - Detailed documentation with screenshots and explanation of the organizational chart setup on Microsoft Dynamics 365
-  
+- 
