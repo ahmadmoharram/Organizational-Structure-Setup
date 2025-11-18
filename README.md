@@ -15,7 +15,7 @@ Build the full HR foundation for a fictional company **"NOVEXA Technologies"** u
 - **Microsoft Dynamics 365** – Used to create and configure the organizational structure and organizational chart
 - **Microsoft PowerPoint, Docs, PDF** – Used for documentation and presentation of the final setup with screenshots and explanations
 
-## 📄 Documentation & Screenshots
+## 📄 Documentation &     Screenshots
 Detailed screenshots of the implementation are included in PDF files inside the `Documentation` folder:
 
 - [Screenshots Part 1](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/d9ef6736c3dafa2fd4c3b30559d222e049ff1afd/Screenshots%20one%20.pdf)
@@ -29,9 +29,8 @@ Ahmed Moharram Tawfik, Eman Magdy Maarouf, Antonios Samir Nazar, Marian Ashraf M
 **Initiative:**  
 Digital Egypt Pioneers Initiative (DEPI)
 
-**Date started:** October 2025 
-**Last updated:** November 2025
+**Date started:** October 2025.
+**Last updated:** November 2025.
 
 ## 🗂 Repository Structure
-- Detailed documentation with screenshots and explanation of the organizational chart setup on Microsoft Dynamics 365
-
+- Detailed documentation with screenshots and explanation of the organizational chart setup on Microsoft Dynamics 365.
