@@ -29,9 +29,9 @@ Ahmed Moharram Tawfik, Eman Magdy Maarouf, Antonios Samir Nazar, Marian Ashraf M
 **Initiative:**  
 Digital Egypt Pioneers Initiative (DEPI)
 
-**Date started:** October 2025
 
-**Last updated:** November 2025
+**Date started:** October 2025.         
+**Last updated:** November 2025.
 
 ## 🗂 Repository Structure
 - Detailed documentation with screenshots and explanation of the organizational chart setup on Microsoft Dynamics 365.
