@@ -16,7 +16,7 @@ Build the full HR foundation for a fictional company "NOVEXA technologies " usin
 
 # Documentation & Screenshots
 Detailed screenshots of the implementation are included in PDF files inside the Documentation folder:  
-- [Screenshots Part 1](https://drive.google.com/file/d/1BXeI8XsRBHFSwcfdinQPnY5Yl4OZdzem/view?usp=drivesdk)
+- [Screenshots Part 1](Screenshots one .pdf)
 - [Screenshots Part 2](Documentation/Screenshots_Part2.pdf)
 - - [Screenshots Part 3](Documentation/Screenshots_Part2.pdf)  
 
