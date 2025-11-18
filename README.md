@@ -34,5 +34,8 @@ Digital Egypt Pioneers Initiative (DEPI)
 **Last updated:** November 2025
 
 ## 🗂 Repository Structure
-- Detailed documentation with screenshots and explanation of the organizational chart setup on Microsoft Dynamics 365
-- 
+- Detailed documentation with screenshots and explanation of the organizational chart setup on Microsoft Dynamics 365.
+
+
+**Feel free to explore and contribute!**
+  
