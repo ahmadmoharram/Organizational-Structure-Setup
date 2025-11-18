@@ -16,7 +16,7 @@ Build the full HR foundation for a fictional company "NOVEXA technologies " usin
 
 # Documentation & Screenshots
 Detailed screenshots of the implementation are included in PDF files inside the Documentation folder:  
-- [Screenshots Part 1](Screenshots one .pdf)
+- [Screenshots Part 1](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/d9ef6736c3dafa2fd4c3b30559d222e049ff1afd/Screenshots%20one%20.pdf)
 - [Screenshots Part 2](Documentation/Screenshots_Part2.pdf)
 - - [Screenshots Part 3](Documentation/Screenshots_Part2.pdf)  
 
