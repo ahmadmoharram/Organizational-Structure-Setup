@@ -37,5 +37,5 @@ Digital Egypt Pioneers Initiative (DEPI)
 - Detailed documentation with screenshots and explanation of the organizational chart setup on Microsoft Dynamics 365.
 
 
-**Feel free to explore and contribute!**
+# Feel free to explore and contribute!
   
