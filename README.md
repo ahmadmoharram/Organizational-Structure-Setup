@@ -24,7 +24,7 @@ Detailed screenshots of the implementation are included in PDF files inside the 
    - [View Finance & Legal jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/373201d66c50c2ee2aaf7fbb2f402f47fc7ab3e9/Finance%26Legal%20jobs%26pos%20screenshots.pdf)
    - 
 ## ☑️ Credits
-**Project developed by:**  
+### Project developed by:
 Ahmed Moharram Tawfik, Eman Magdy Maarouf, Antonios Samir Nazar, Marian Ashraf Mounir, Passant Walid Mostafa, Marian Elia Haroon
 
 **Initiative:**  
@@ -38,5 +38,7 @@ Digital Egypt Pioneers Initiative (DEPI)
 - Detailed documentation with screenshots and explanation of the organizational chart setup on Microsoft Dynamics 365.
 
 
-*Feel free to explore and contribute!*
+
+
+*Feel free to explore and contribute!*💡
   
