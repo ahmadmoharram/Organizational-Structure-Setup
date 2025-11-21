@@ -27,7 +27,7 @@ Detailed screenshots of the implementation are included in PDF files inside the 
 - [View HR & Talent jobs and positions]
 - [View Sales & Partnerships jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/b964c64d0003cc75bf7307a7c4a3f1bcc06b7b3f/Sales%26Partnerships%20jobs%20and%20positions%20screenshots.pdf)
 - [View Finance & Legal jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/373201d66c50c2ee2aaf7fbb2f402f47fc7ab3e9/Finance%26Legal%20jobs%26pos%20screenshots.pdf)
-- [View Position hierarchy of Novexa technologies](. https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/6b68c2e1cc10ac34931f9850866ed8fa6316c66a/Position%20Hierarchy%20Novexa%20technologies%20.pdf)
+- [View Position hierarchy of Novexa technologies](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/6b68c2e1cc10ac34931f9850866ed8fa6316c66a/Position%20Hierarchy%20Novexa%20technologies%20.pdf)
 ## ☑️ Credits
 `Project developed by:`
 
