@@ -20,6 +20,7 @@ Detailed screenshots of the implementation are included in PDF files inside the 
 
    - [View legal entities, operating units and departments](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/d9ef6736c3dafa2fd4c3b30559d222e049ff1afd/Screenshots%20one%20.pdf)
    - [View Executive Office | R&D jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/d4abdfc46d145a5e637446822a499495a467126b/Jobs%20%26%20position%20of%20Exceutive%20Office%20dep.%20and%20Engineering%20%26%20R%26D%20dep..pdf)
+   - [View Engineering & R&D jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/ec3c4ea5cf0e35adf09b25ecc773f35eedad77a0/5-%20Engineering%20and%20R%26D.pdf)
    - [View Sales & Partnerships jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/b964c64d0003cc75bf7307a7c4a3f1bcc06b7b3f/Sales%26Partnerships%20jobs%20and%20positions%20screenshots.pdf)
    - [View Finance & Legal jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/373201d66c50c2ee2aaf7fbb2f402f47fc7ab3e9/Finance%26Legal%20jobs%26pos%20screenshots.pdf)
    - 
