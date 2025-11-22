@@ -1,8 +1,26 @@
-# Dynamics 365 HR Project - Digital Egypt Pioneers Initiative
-## 🎯 Objective
-Build the full HR foundation for a fictional company **"NOVEXA Technologies"** using Microsoft Dynamics 365.  
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap:20px;">
 
-![Company Logo](https://github.com/eman604/Dynamics365-HR-foundation-/blob/main/tt.jpg?raw=true)
+  <!-- Header: DEPI logo + Title -->
+  <div style="display: flex; align-items: center; gap:12px;">
+    <img src="https://github.com/eman604/Dynamics365-HR-foundation-/blob/84aeccc79962af3576604bbffbb6f2624a89ec6d/999.png" alt="DEPI Logo" width="100" style="border-radius:4px;">
+    <h1 style="margin:0; font-size:1.6em;">Dynamics 365 HR project - Digital Egypt Pioneers Initiative </h1>
+  </div>
+
+  <!-- Objective -->
+  <div style="margin-left:62px;">
+    <h3 style="margin:0; font-size:1.2em;">Objective</h3>
+    <p style="margin:4px 0 0 0; line-height:1.5;">
+      Build the full HR foundation for a fictional company <strong>NOVEXA Technologies</strong> using Microsoft Dynamics 365.
+    </p>
+  </div>
+
+  <!-- NOVEXA Logo -->
+  <div style="margin-left:62px; margin-top:8px;">
+    <img src="https://github.com/eman604/Dynamics365-HR-foundation-/blob/main/tt.jpg?raw=true" alt="NOVEXA Logo" width="120" style="border-radius:6px;">
+  </div>
+
+</div>
+ 
 
 ## 📌 Scope
 - Create legal entities and operating units
