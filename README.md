@@ -1,3 +1,4 @@
+# Organizational Structure Setup
 ## 🎯 Objective
 Build the full HR foundation for a fictional company **"NOVEXA Technologies"** using Microsoft Dynamics 365.  
 
