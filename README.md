@@ -1,4 +1,4 @@
-# Organizational Structure Setup
+# Dynamics 365 HR Project - Digital Egypt Pioneers Initiative
 ## 🎯 Objective
 Build the full HR foundation for a fictional company **"NOVEXA Technologies"** using Microsoft Dynamics 365.  
 
