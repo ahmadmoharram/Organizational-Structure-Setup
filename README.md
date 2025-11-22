@@ -24,7 +24,7 @@ Detailed screenshots of the implementation are included in PDF files inside the 
 - [View Executive Office](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/54796e413c99d297abb27702cab821625893cd21/4-%20Executive%20Office.pdf)
 - [View Engineering & R&D jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/abcfc7f1102516301349c4657f7bddcc6e22fd09/5-%20Engineering%20and%20R%26D.pdf)
 - [View Product & Innovation jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/abcfc7f1102516301349c4657f7bddcc6e22fd09/6-%20Product%20and%20Innovation.pdf)
-- [View HR & Talent jobs and positions]
+- [View HR & Talent jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/3e5830b0cecddeff5729b284959c27c17e0d4d59/7-%20HR%20%26%20Talent.pdf)
 - [View Sales & Partnerships jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/b964c64d0003cc75bf7307a7c4a3f1bcc06b7b3f/Sales%26Partnerships%20jobs%20and%20positions%20screenshots.pdf)
 - [View Finance & Legal jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/373201d66c50c2ee2aaf7fbb2f402f47fc7ab3e9/Finance%26Legal%20jobs%26pos%20screenshots.pdf)
 - [View Position hierarchy of Novexa technologies](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/6b68c2e1cc10ac34931f9850866ed8fa6316c66a/Position%20Hierarchy%20Novexa%20technologies%20.pdf)
