@@ -50,7 +50,7 @@ Eng. Mahmoud Ahmed
 
 </div>
 
-
+---
 ## 🗂 Repository Structure
 - Detailed documentation with screenshots and explanation of the organizational chart setup on Microsoft Dynamics 365.
 
