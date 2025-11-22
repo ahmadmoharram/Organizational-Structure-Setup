@@ -18,7 +18,7 @@ Build the full HR foundation for a fictional company **"NOVEXA Technologies"** u
 ## 📄 Documentation & Screenshots
 Detailed screenshots of the implementation are included in PDF files inside the `Documentation` folder:
 
-- [View HR Foundation Setup](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/c621f19ce8243f29b4c16ff7579dcd7300eb8d0b/1-%20HR%20Foundation%20Setup.pdf)
+- [View HR Foundation Setup](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/618d7274e4b18566325c9d6d1ebb3a792b1faf9a/1-%20HR%20Foundation%20Setup.pdf)
 - [View legal entities, operating units and departments](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/c621f19ce8243f29b4c16ff7579dcd7300eb8d0b/2-%20Legal%20Entities%2C%20Operating%20Units%20%26%20Departments%20.pdf)
 - [View Departments Overview](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/19479456dd167022413711255854aba4ff104d2f/3-%20Departments%20Overview.pdf)
 - [View Executive Office](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/54796e413c99d297abb27702cab821625893cd21/4-%20Executive%20Office.pdf)
