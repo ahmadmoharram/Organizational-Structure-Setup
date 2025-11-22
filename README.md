@@ -13,7 +13,7 @@ Build the full HR foundation for a fictional company **"NOVEXA Technologies"** u
 
 ## ⚙️ Tools & Platform
 - **Microsoft Dynamics 365** – Used to create and configure the organizational structure and organizational chart
-- **Docs, PDF** – Used for documentation and presentation of the final setup with screenshots and explanations
+- **PDF** – Used for documentation and presentation of the final setup with screenshots and explanations
 
 ## 📄 Documentation & Screenshots
 Detailed screenshots of the implementation are included in PDF files inside the `Documentation` folder:
