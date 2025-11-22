@@ -20,7 +20,8 @@
   </div>
 
 </div>
- 
+
+- - -
 
 ## 📌 Scope
 - Create legal entities and operating units
@@ -31,7 +32,7 @@
 ## ⚙️ Tools & Platform
 - **Microsoft Dynamics 365** – Used to create and configure the organizational structure and organizational chart
 - **PDF** – Used for documentation and presentation of the final setup with screenshots and explanations
-
+---
 ## 📄 Documentation & Screenshots
 Detailed screenshots of the implementation are included in PDF files inside the `Documentation` folder:
 
@@ -46,26 +47,18 @@ Detailed screenshots of the implementation are included in PDF files inside the 
 - [View Finance & Legal jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/81bea2871760118eb65457863e035497789d9e41/9-%20Finance%20%26%20Legal.pdf)
 - [View Position hierarchy of Novexa technologies](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/81bea2871760118eb65457863e035497789d9e41/Position%20Hierarchy%20Novexa%20technologies%20.pdf)
 
+---
 
 ## ☑️ Credits  
 
 ### <strong>Project developed by:</strong>  
 Ahmed Moharram Tawfik • Eman Magdy Maarouf • Antonios Samir Nazar • Marian Ashraf Mounir • Passant Walid Mostafa • Marian Elia Haroon  
 
----
-
 ### <strong>Initiative:</strong>  
 Digital Egypt Pioneers Initiative (DEPI)
 
 ### <strong>Instructor:</strong>  
 Eng. Mahmoud Ahmed  
-
----
-
-### <strong>📅 Date started:</strong> October 2025  
-### <strong>🛠️ Last updated:</strong> November 2025  
-
-</div>
 
 ---
 ## 🗂 Repository Structure
