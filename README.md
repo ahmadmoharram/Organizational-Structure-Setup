@@ -28,25 +28,39 @@ Detailed screenshots of the implementation are included in PDF files inside the 
 - [View Sales & Partnerships jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/81bea2871760118eb65457863e035497789d9e41/8-%20Sales%20%26%20Partnerships.pdf)
 - [View Finance & Legal jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/81bea2871760118eb65457863e035497789d9e41/9-%20Finance%20%26%20Legal.pdf)
 - [View Position hierarchy of Novexa technologies](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/81bea2871760118eb65457863e035497789d9e41/Position%20Hierarchy%20Novexa%20technologies%20.pdf)
-## ☑️ Credits
-`Project developed by:`
 
-Ahmed Moharram Tawfik, Eman Magdy Maarouf, Antonios Samir Nazar, Marian Ashraf Mounir, Passant Walid Mostafa, Marian Elia Haroon
 
-`Initiative:`
+## ☑️ Credits  
 
+### <strong>Project developed by:</strong>  
+Ahmed Moharram Tawfik • Eman Magdy Maarouf • Antonios Samir Nazar • Marian Ashraf Mounir • Passant Walid Mostafa • Marian Elia Haroon  
+
+---
+
+### <strong>Initiative:</strong>  
 Digital Egypt Pioneers Initiative (DEPI)
 
-`Instructor:`
+### <strong>Instructor:</strong>  
+Eng. Mahmoud Ahmed  
 
-Eng.Mahmoud Ahmed
+---
 
-`Date started:` October 2025.         
-`Last updated:` November 2025.
+### <strong>📅 Date started:</strong> October 2025  
+### <strong>🛠️ Last updated:</strong> November 2025  
+
+</div>
+
 
 ## 🗂 Repository Structure
 - Detailed documentation with screenshots and explanation of the organizational chart setup on Microsoft Dynamics 365.
 
+---
 
- *Feel free to explore and contribute!* 
-                 *Thank you* 
+<div align="center">
+
+  ### **Thank you for reviewing this project.**  
+  ### **Your feedback is truly appreciated.**
+
+</div>
+
+
