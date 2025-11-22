@@ -1,4 +1,21 @@
 # Organizational Structure Setup
+<div style="display:flex; align-items:center; gap:24px;">
+
+  <!-- LEFT: text -->
+  <div style="flex:1; min-width:220px;">
+    <h2 style="margin:0 0 8px 0;">Build the full HR foundation for a fictional company "NOVEXA Technologies" using Microsoft Dynamics 365</h2>
+    <p style="margin:0; line-height:1.4;">
+      <!-- لو حابة تضيفي تفاصيل قصيرة تحت العنوان، ممكن تلغي التعليق -->
+      <!-- Example: Implement core HR modules: Personnel, Positions, Leave, Benefits, Payroll integration, Talent, and Security roles. -->
+    </p>
+  </div>
+
+  <!-- RIGHT: image -->
+  <div style="flex:0 0 320px; text-align:center;">
+    <img src="https://github.com/eman604/Dynamics365-HR-foundation-/blob/main/tt.jpg?raw=true" alt="NOVEXA image" style="max-width:100%; height:auto; border-radius:8px;">
+  </div>
+
+</div>
 
 ## 🎯 Objective
 Build the full HR foundation for a fictional company **"NOVEXA Technologies"** using Microsoft Dynamics 365.  
