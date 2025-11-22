@@ -37,6 +37,9 @@ Ahmed Moharram Tawfik, Eman Magdy Maarouf, Antonios Samir Nazar, Marian Ashraf M
 
 Digital Egypt Pioneers Initiative (DEPI)
 
+`Instructor:`
+
+Eng.Mahmoud Ahmed
 
 `Date started:` October 2025.         
 `Last updated:` November 2025.
@@ -45,4 +48,5 @@ Digital Egypt Pioneers Initiative (DEPI)
 - Detailed documentation with screenshots and explanation of the organizational chart setup on Microsoft Dynamics 365.
 
 
- *Feel free to explore and contribute!* 💡
+ *Feel free to explore and contribute!* 
+                 *Thank you* 
