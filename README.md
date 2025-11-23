@@ -15,7 +15,7 @@
   </div>
 
   <!-- NOVEXA Logo -->
-  <div style="margin-left:62px; margin-top:8px;">
+  <div align="center">
     <img src="https://github.com/eman604/Dynamics365-HR-foundation-/blob/main/tt.jpg?raw=true" alt="NOVEXA Logo" width="120" style="border-radius:6px;">
   </div>
 
