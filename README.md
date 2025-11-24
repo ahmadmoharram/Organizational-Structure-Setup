@@ -3,12 +3,11 @@
   <!-- Header: DEPI logo + Title -->
   <div style="display: flex; align-items: center; gap:12px;">
     <img src="https://github.com/eman604/Dynamics365-HR-foundation-/blob/84aeccc79962af3576604bbffbb6f2624a89ec6d/999.png" alt="DEPI Logo" width="100" style="border-radius:4px;">
-    <h1 style="margin:0; font-size:1.6em;">Dynamics 365 HR project - Digital Egypt Pioneers Initiative </h1>
+    <h1 style="margin:0; font-size:1.6em;">Dynamics 365 HR project - Digital Egypt Pioneers </h1>
   </div>
 
-  <!-- Objective -->
-  <div style="margin-left:62px;">
-    <h3 style="margin:0; font-size:1.2em;">1️⃣ Objective</h3>
+  ## 1️⃣ Objective
+   </div>
     <p style="margin:4px 0 0 0; line-height:1.5;">
       Build the full HR foundation for a fictional company <strong>NOVEXA Technologies</strong> using Microsoft Dynamics 365.
     </p>
@@ -28,6 +27,7 @@
 - Define departments, jobs, and positions
 - Assign reporting relationships
 - Produce an organizational chart
+- - -
 
 ## 3️⃣ Tools & Platform
 - **Microsoft Dynamics 365** – Used to create and configure the organizational structure and organizational chart
