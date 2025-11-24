@@ -8,7 +8,7 @@
 
   <!-- Objective -->
   <div style="margin-left:62px;">
-    <h3 style="margin:0; font-size:1.2em;">Objective</h3>
+    <h3 style="margin:0; font-size:1.2em;">1️⃣ Objective</h3>
     <p style="margin:4px 0 0 0; line-height:1.5;">
       Build the full HR foundation for a fictional company <strong>NOVEXA Technologies</strong> using Microsoft Dynamics 365.
     </p>
@@ -23,17 +23,17 @@
 
 - - -
 
-## 📌 Scope
+## 2️⃣ Scope
 - Create legal entities and operating units
 - Define departments, jobs, and positions
 - Assign reporting relationships
 - Produce an organizational chart
 
-## ⚙️ Tools & Platform
+## 3️⃣ Tools & Platform
 - **Microsoft Dynamics 365** – Used to create and configure the organizational structure and organizational chart
 - **PDF** – Used for documentation and presentation of the final setup with screenshots and explanations
 ---
-## 📄 Documentation & Screenshots
+## 4️⃣ Documentation & Screenshots
 Detailed screenshots of the implementation are included in PDF files inside the `Documentation` folder:
 
 - [View HR Foundation Setup](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/dd11ccf736639485304ee5ab82c68faae63668b2/1-%20HR%20Foundation%20Setup.pdf)
@@ -49,7 +49,7 @@ Detailed screenshots of the implementation are included in PDF files inside the 
 
 ---
 
-## ☑️ Credits  
+## 5️⃣ Credits  
 
 ### <strong>Project developed by:</strong>  
 Ahmed Moharram Tawfik • Eman Magdy Maarouf • Antonios Samir Nazar • Marian Ashraf Mounir • Passant Walid Mostafa • Marian Elia Haroon  
@@ -61,7 +61,7 @@ Digital Egypt Pioneers Initiative (DEPI)
 Eng. Mahmoud Ahmed  
 
 ---
-## 🗂 Repository Structure
+## 6️⃣ Repository Structure
 - Detailed documentation with screenshots and explanation of the organizational chart setup on Microsoft Dynamics 365.
 
 ---
