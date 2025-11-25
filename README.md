@@ -3,7 +3,7 @@
   <!-- Header: DEPI logo + Title -->
   <div style="display: flex; align-items: center; gap:12px;">
     <img src="https://github.com/eman604/Dynamics365-HR-foundation-/blob/84aeccc79962af3576604bbffbb6f2624a89ec6d/999.png" alt="DEPI Logo" width="100" style="border-radius:4px;">
-    <h1 style="margin:0; font-size:1.6em;">Dynamics 365 HR project - Digital Egypt Pioneers </h1>
+    <h1 align= "center"; font-size:1.6em;">Dynamics 365 HR project - Digital Egypt Pioneers </h1>
   </div>
 
   ## 🎯 Objective
