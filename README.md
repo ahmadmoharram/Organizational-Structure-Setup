@@ -39,7 +39,7 @@ Detailed screenshots of the implementation are included in PDF files inside the 
 - [View HR Foundation Setup](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/dd11ccf736639485304ee5ab82c68faae63668b2/1-%20HR%20Foundation%20Setup.pdf)
 - [View legal entities, operating units and departments](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/2d4a5a3d54badb12a59906fd62082d49ba5c9843/2-%20Legal%20Entities%2C%20Operating%20Units%20and%20Departments.pdf)
 - [View Departments Overview](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/19479456dd167022413711255854aba4ff104d2f/3-%20Departments%20Overview.pdf)
-- [View Executive Office](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/54796e413c99d297abb27702cab821625893cd21/4-%20Executive%20Office.pdf)
+- [View Executive Office jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/54796e413c99d297abb27702cab821625893cd21/4-%20Executive%20Office.pdf)
 - [View Engineering & R&D jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/abcfc7f1102516301349c4657f7bddcc6e22fd09/5-%20Engineering%20and%20R%26D.pdf)
 - [View Product & Innovation jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/4f7388250539852aa771480b8a987c0e3a251e34/6-%20Product%20%26%20Innovation.pdf)
 - [View HR & Talent jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/eeb02fe49b64104557c8b1db3b77c03703806965/7-%20HR%20%26%20Talent.pdf)
