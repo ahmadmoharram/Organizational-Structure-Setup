@@ -36,7 +36,7 @@
 ## 📄 Documentation & Screenshots
 Detailed screenshots of the implementation are included in PDF files inside the `Documentation` folder:
 
-- [View HR Foundation Setup](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/85850acf773f2c5c9da1f1c27c0915ddb37dd149/1-%20HR%20Foundation%20Setup.pd)
+- [View HR Foundation Setup](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/85850acf773f2c5c9da1f1c27c0915ddb37dd149/1-%20HR%20Foundation%20Setup.pdf)
 - [View legal entities, operating units and departments](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/2d4a5a3d54badb12a59906fd62082d49ba5c9843/2-%20Legal%20Entities%2C%20Operating%20Units%20and%20Departments.pdf)
 - [View Departments Overview](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/19479456dd167022413711255854aba4ff104d2f/3-%20Departments%20Overview.pdf)
 - [View Executive Office jobs and positions](https://github.com/ahmadmoharram/Organizational-Structure-Setup/blob/54796e413c99d297abb27702cab821625893cd21/4-%20Executive%20Office.pdf)
